@@ -1,7 +1,7 @@
 ##################
 Screen Shot Program
 ##################
-![data_daftar_buku](https://user-images.githubusercontent.com/114757674/197955499-d28f4c7e-05bb-4f16-9891-b7d2a87bb103.jpg)
+![data_daftar_buku](https://user-images.githubusercontent.com/114757674/197955499-d28f4c7e-05bb-4f16-9891-b7d2a87bb103.jpg "daftar buku")
 ![data_daftar_pengarang](https://user-images.githubusercontent.com/114757674/197955529-b5587597-bfc0-4d43-896e-560f68dbedd1.jpg)
 ![data_laporan-rport](https://user-images.githubusercontent.com/114757674/197955534-3e07858e-6d38-4bbe-95ab-b21e7cbb3a6e.jpg)
 ![form_tambah_apart](https://user-images.githubusercontent.com/114757674/197955535-0ccd1396-ab37-4f7c-abf1-da48a7033c95.jpg)
