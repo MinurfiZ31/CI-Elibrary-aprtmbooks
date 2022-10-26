@@ -1,3 +1,24 @@
+##################
+Screen Shot Program
+##################
+![data_daftar_buku](https://user-images.githubusercontent.com/114757674/197955499-d28f4c7e-05bb-4f16-9891-b7d2a87bb103.jpg)
+![data_daftar_pengarang](https://user-images.githubusercontent.com/114757674/197955529-b5587597-bfc0-4d43-896e-560f68dbedd1.jpg)
+![data_laporan-rport](https://user-images.githubusercontent.com/114757674/197955534-3e07858e-6d38-4bbe-95ab-b21e7cbb3a6e.jpg)
+![form_tambah_apart](https://user-images.githubusercontent.com/114757674/197955535-0ccd1396-ab37-4f7c-abf1-da48a7033c95.jpg)
+![form_tambah_buku](https://user-images.githubusercontent.com/114757674/197955544-da89e795-2f9f-43b1-b580-e31e25e404ad.jpg)
+![sukses_addapart](https://user-images.githubusercontent.com/114757674/197955550-10cc2758-4b9b-41ef-ba41-da5866a1b97d.jpg)
+![sukses_deleteapart](https://user-images.githubusercontent.com/114757674/197955553-d4923833-5763-4898-a1fb-bca1d7687092.jpg)
+![Tampilan_data apart](https://user-images.githubusercontent.com/114757674/197955556-36b7b50d-47b5-4558-9ce1-776dd1068789.jpg)
+![Tampilan_Home](https://user-images.githubusercontent.com/114757674/197955562-648f61c7-4bb7-49ed-8021-23a5f2c2ce71.jpg)
+![Tampilan_login](https://user-images.githubusercontent.com/114757674/197955570-a45bc021-f0f6-4a4c-a49d-d69c1e14d213.jpg)
+
+
+
+
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
